@@ -3,3 +3,21 @@ body {
   height: 100%;
   margin: 0;
 }
+header, section{
+  text-align: center;
+}
+nav a {
+  padding: 5px, 15px;
+  background-color: bisque;
+}
+#featured-property p {
+  margin: auto;
+  width: 800px;
+}
+
+#details div{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
